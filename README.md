@@ -1,1 +1,1 @@
-A rudimentary music player built using on Android Studio.
+A rudimentary messaging application built using on Android Studio.
